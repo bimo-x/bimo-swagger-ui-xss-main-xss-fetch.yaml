@@ -1,0 +1,1 @@
+# bimo-swagger-ui-xss-main-xss-fetch.yaml
